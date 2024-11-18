@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning and exploring new technologies.
 - 🔭 I’m passionate about software development and problem-solving.
 - 👯 I’m looking to collaborate on exciting projects related to web development and automation.
-📫 How to reach me: [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:kissasium@gmail.com)
-- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kissa-zahra/)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:kissasium@gmail.com)
+- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/kissa-zahra/)
 
 
 
