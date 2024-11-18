@@ -16,20 +16,23 @@
 ---
 
 ### 🛠️ Technologies I Know
-  <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Code-C%2B%2B-blue" />
-  <img src="https://img.shields.io/badge/Code-C%23-blueviolet" />
-  <img src="https://img.shields.io/badge/Code-Python-green" />
-  <img src="https://img.shields.io/badge/Code-JAVA-orange" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen" />
-  <img src="https://img.shields.io/badge/Framework-React%20Native-lightblue" />
-  <img src="https://img.shields.io/badge/Stack-MERN-yellow" />
-  <img src="https://img.shields.io/badge/Web-HTML%20%2F%20CSS-red" />
-  <img src="https://img.shields.io/badge/Database-SQL-blue" />
-  <img src="https://img.shields.io/badge/Tools-Git-red" />
-  <img src="https://img.shields.io/badge/Tools-Jenkins-red" />
-  <img src="https://img.shields.io/badge/Tools-Docker-lightblue" />
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-blue" />
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" style="margin-right: 10px;" />
 </p>
 
 ---
