@@ -16,8 +16,8 @@
 ---
 
 ### 🛠️ Technologies I Know
-<p>
-  <img src="https://img.shields.io/badge/Code-C++-blue" />
+  <p>
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue" />
   <img src="https://img.shields.io/badge/Code-C%23-blueviolet" />
   <img src="https://img.shields.io/badge/Code-Python-green" />
   <img src="https://img.shields.io/badge/Code-JAVA-orange" />
