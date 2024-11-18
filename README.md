@@ -41,4 +41,3 @@
 
 ---
 
-⭐️ From [kissasium](https://github.com/kissasium)
