@@ -63,9 +63,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50" style="margin-right: 10px;" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="50" style="margin-right: 10px;" />
-  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="50" style="margin-right: 10px;" />
   </a>
@@ -81,6 +78,10 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="50" style="margin-right: 10px;" />
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="50" style="margin-right: 10px;" />
+</a>
+
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="50" style="margin-right: 10px;" />
   </a>
