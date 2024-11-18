@@ -13,11 +13,7 @@
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:kissasium@gmail.com)
 - 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/kissa-zahra/)
 
-
-
 ---
-
-### 🛠️ Technologies I Know
 
 ### 🛠️ Technologies I Know
 
@@ -75,7 +71,6 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="50" style="margin-right: 10px;" />
 </a>
-  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" style="margin-right: 10px;" />
   </a>
@@ -85,13 +80,10 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="50" style="margin-right: 10px;" />
 </a>
-
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="50" style="margin-right: 10px;" />
   </a>
 </p>
-
-
 
 ---
 
