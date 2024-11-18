@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Kissa Zahra</h1>
----
 
 ### 👩‍💻 About Me
 - 🌱 I’m currently learning and exploring new technologies.
