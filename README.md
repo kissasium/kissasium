@@ -1,9 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Kissa Zahra</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kissasium&style=flat-square&color=blue" alt="Views Counter" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
