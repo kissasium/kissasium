@@ -13,6 +13,13 @@
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kissasium@gmail.com)
 - 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kissa-zahra/)
 
+- 📫 How to reach me: 
+[![Email](https://img.shields.io/badge/Email-Email-red?style=flat&logo=gmail)](mailto:kissasium@gmail.com)
+
+💼 Connect with me on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kissa-zahra/)
+
+
 ---
 
 ### 🛠️ Technologies I Know
