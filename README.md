@@ -10,10 +10,11 @@
 
 ---
  
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ### 🛠️ Technologies I Know
-
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -90,7 +91,7 @@
 </p>
 
 ---
-
-### Fun GIFs 🎮
   
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">
+</div>
