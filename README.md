@@ -84,11 +84,6 @@
   </a>
 </p>
 
-<!-- Contributions Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kissasium&theme=radical" alt="GitHub Streak" />
-</p>
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kissasium&layout=normal&theme=radical" alt="Top Languages" />
