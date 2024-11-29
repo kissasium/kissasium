@@ -1,10 +1,7 @@
 
-
-
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=50&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hellow+🐱!!+I+am+Kissa+Zahra;A+passionate+tech+enthusiast;Exploring+the+world+of+code+and+creativity!" width="50%" />
-
-<div align="right">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75"> 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" align="right"> 
 </div>
 
 
