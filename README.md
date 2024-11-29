@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Kissa Zahra</h1>
+<h1 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=50&color=FFD700&center=true&vCenter=true&multiline=true&width=610&height=100&lines=Hellow+🐱!!+I+am+Kissa+Zahra" width="50%" />
+</h1>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75"> 
