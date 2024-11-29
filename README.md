@@ -92,4 +92,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kissasium&layout=normal&theme=radical" alt="Top Languages" />
 </p>
 
-![snake animation](https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/github_user_name/kissasium/blob/output/github-contribution-grid-snake2.svg)
