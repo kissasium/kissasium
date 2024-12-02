@@ -7,7 +7,7 @@
 
 
 - 🌱 Currently exploring and diving deeper into **new technologies** and **emerging trends** in the tech world.
-- 👯 Eager to collaborate on **innovative projects** in **web development**, **automation**, and **AI-driven applications**.
+- 👯 Eager to collaborate on **innovative projects** in **web development**, **automation**, and **AI-driven applications**.  
 - 📫 Feel free to reach out via email: [kissasium@gmail.com](mailto:kissasium@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kissa-zahra/).
 
