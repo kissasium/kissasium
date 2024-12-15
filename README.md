@@ -4,8 +4,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100" align="right"> 
 </div>
 
-
-
 - 🌱 Currently exploring and diving deeper into **new technologies** and **emerging trends** in the tech world.
 - 👯 Eager to collaborate on **innovative projects** in **web development**, **automation**, and **AI-driven applications**.  
 - 📫 Feel free to reach out via email: [kissasium@gmail.com](mailto:kissasium@gmail.com)
