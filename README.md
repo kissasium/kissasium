@@ -81,6 +81,14 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="50" style="margin-right: 10px;" />
   </a>
+
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="50" style="margin-right: 10px;" />
+</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="50" style="margin-right: 10px;" />
+</a>
+
 </p>
 
 ---
