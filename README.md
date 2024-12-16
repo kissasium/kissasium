@@ -17,6 +17,7 @@
 
 ### 🛠️ Technologies I Know
 <p align="left">
+ 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" style="margin-right: 10px;" />
   </a>
@@ -92,7 +93,6 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kissasium&layout=normal&theme=radical" alt="Top Languages" />
