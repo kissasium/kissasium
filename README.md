@@ -87,9 +87,10 @@
 <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="50" style="margin-right: 10px;" />
 </a>
-<a href="https://golang.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" alt="golang" title="go" width="50" style="margin-right: 10px;" />
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="GoLang" title="GoLang" width="50" style="margin-right: 10px;" />
 </a>
+
 
 </p>
 
