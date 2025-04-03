@@ -90,7 +90,9 @@
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="GoLang" title="GoLang" width="50" style="margin-right: 10px;" />
 </a>
-
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="50" style="margin-right: 10px;" />
+</a>
 
 </p>
 
