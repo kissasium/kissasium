@@ -4,6 +4,7 @@
 </div>
 
 - 🌱 Currently exploring the world of **Deep Learning, AI-driven solutions**, and **MLOps**.
+- 🧠 Working on AI research prototypes focused on intelligent systems, deployment pipelines, and real-world impact.
 - 📫 Feel free to reach out via email: [kissasium@gmail.com](mailto:kissasium@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kissa-zahra/).
 
