@@ -4,7 +4,6 @@
 </div>
 
 - 🌱 Currently exploring the world of **Deep Learning, AI-driven solutions**, and **MLOps**.
-- 🎓 Currently working on MedTrove — an AI-powered app for affordable medication alternatives and drug management.
 - 📫 Feel free to reach out via email: [kissasium@gmail.com](mailto:kissasium@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/kissa-zahra/).
 
